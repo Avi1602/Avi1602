@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Building+scalable+systems+at+MAQ+Software+%F0%9F%8F%97%EF%B8%8F;Full-Stack+%E2%80%A2+Cloud+%E2%80%A2+Data+Engineering+%E2%80%A2+AI%2FML;500%2B+DSA+problems+solved+%F0%9F%94%A5;Developer+of+the+Month+x2+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Building+scalable+systems+at+MAQ+Software+%F0%9F%8F%97%EF%B8%8F;Full-Stack+%E2%80%A2+Cloud+%E2%80%A2+Data+Engineering+%E2%80%A2+AI%2FML;11%2B+Open+Source+Projects+%F0%9F%9A%80;500%2B+DSA+problems+solved+%F0%9F%94%A5;Developer+of+the+Month+x2+%F0%9F%8F%86" alt="Typing SVG" />
 
 <br/>
 
@@ -31,13 +31,13 @@ const abhishek: Engineer = {
 
     languages:   ["Python", "JavaScript", "TypeScript", "C#", "C++"],
     frontend:    ["React", "Redux", "HTML5", "CSS3", "Material UI"],
-    backend:     ["Node.js", "Express", "ASP.NET", "REST APIs"],
-    databases:   ["MongoDB", "MySQL", "SQL Server"],
-    cloud:       ["Azure", "Data Factory", "Databricks", "Synapse", "Azure Pipelines"],
-    devops:      ["Docker", "Kubernetes", "Git", "CI/CD"],
-    data:        ["Power BI", "DAX", "Playwright", "MCP Server"],
+    backend:     ["Node.js", "Express", "FastAPI", "ASP.NET", "REST APIs", "WebSockets"],
+    databases:   ["MongoDB", "PostgreSQL", "MySQL", "Redis", "SQL Server", "Elasticsearch"],
+    cloud:       ["Azure", "AWS", "GCP", "Data Factory", "Databricks", "Synapse"],
+    devops:      ["Docker", "Kubernetes", "Git", "CI/CD", "GitHub Actions"],
+    data:        ["Kafka", "Spark", "Power BI", "DAX", "Streamlit", "Playwright"],
 
-    architecture: ["Microservices", "Event-Driven", "Serverless", "MVC"],
+    architecture: ["Microservices", "Event-Driven", "Serverless", "MVC", "CQRS"],
     currentFocus: "Scalable data pipelines & automated enterprise solutions",
     funFact:      "I debug production issues faster than I order coffee ☕"
 };
@@ -79,8 +79,8 @@ const abhishek: Engineer = {
 
 ![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST](https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 </td>
@@ -89,8 +89,9 @@ const abhishek: Engineer = {
 **Database**
 
 ![MongoDB](https://img.shields.io/badge/Mongo-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 </td>
 <td align="center" width="20%">
@@ -100,8 +101,8 @@ const abhishek: Engineer = {
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 </td>
 </tr>
@@ -137,6 +138,120 @@ const abhishek: Engineer = {
 ## 🚀 Featured Projects
 
 <div align="center">
+
+### 🔥 Flagship Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center"><a href="https://github.com/Avi1602/AI-Chat-App">🤖 AI Chat App</a></h3>
+<p align="center"><em>Real-time AI-Powered Chat</em></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+- GPT streaming responses via WebSockets
+- Room-based chat with JWT auth
+- Typing indicators & online status
+- Docker + CI/CD ready
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center"><a href="https://github.com/Avi1602/TaskFlow">📋 TaskFlow</a></h3>
+<p align="center"><em>Project Management SaaS</em></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+</p>
+
+- Kanban board with drag-and-drop
+- Dashboard with stats & activity feed
+- Prisma ORM + PostgreSQL schema
+- Dark mode Tailwind UI
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center"><a href="https://github.com/Avi1602/DataStream">🌊 DataStream</a></h3>
+<p align="center"><em>Real-time Data Pipeline</em></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+
+- Multi-source producers (e-commerce, IoT)
+- Z-score anomaly detection engine
+- Spark batch + streaming analytics
+- Live Streamlit dashboard
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center"><a href="https://github.com/Avi1602/SnapURL">🔗 SnapURL</a></h3>
+<p align="center"><em>URL Shortener + Analytics</em></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+- Base62 encoding, 10K+ redirects/sec
+- Redis caching for <10ms lookups
+- Geo & device click analytics
+- QR code generation
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center"><a href="https://github.com/Avi1602/K8s-Deploy-CLI">☸️ K8s Deploy CLI</a></h3>
+<p align="center"><em>Kubernetes Deployment Tool</em></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+- Rolling, blue-green & canary deploys
+- Multi-cloud (AWS, Azure, GCP)
+- Rich terminal UI with progress bars
+- Rollback with version history
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center"><a href="https://github.com/Avi1602/Airbnb-Clone">🏠 Airbnb Clone</a></h3>
+<p align="center"><em>Full-Stack Web Application</em></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+- Geolocation search + map integration
+- JWT auth + date-range filtering
+- MongoDB geospatial indexing
+- CI/CD pipeline with 99.9% uptime
+
+</td>
+</tr>
+</table>
+
+### 🛠️ More Projects
+
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -150,7 +265,6 @@ const abhishek: Engineer = {
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-- Full-stack with JWT auth & rate limiting
 - NLP sentiment analysis for recommendations
 - **+15% retention, +25% engagement**
 - 1000+ concurrent user support
@@ -168,7 +282,6 @@ const abhishek: Engineer = {
 
 - Tamper-proof document verification
 - Smart contract-based access control
-- Decentralized architecture
 - Zero-trust security model
 
 </td>
@@ -184,7 +297,6 @@ const abhishek: Engineer = {
 
 - Real-time multi-sensor flame detection
 - Autonomous navigation & response
-- Motor control + speaker alarm system
 - Life-saving IoT technology
 
 </td>
@@ -198,30 +310,11 @@ const abhishek: Engineer = {
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 </p>
 
 - Metric validation against source systems
-- RLS compliance & impersonation testing
 - Automated slicer audit for 10+ reports
 - Screenshot workflow automation
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center"><a href="https://github.com/Avi1602/Airbnb-Clone">🏠 Airbnb Clone</a></h3>
-<p align="center"><em>Full-Stack Web Application</em></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-- Server-side rendering, 40% faster load
-- Geolocation search + date-range filtering
-- MongoDB indexing for sub-200ms response
-- CI/CD pipeline with 99.9% uptime
 
 </td>
 <td width="33%" valign="top">
@@ -232,17 +325,31 @@ const abhishek: Engineer = {
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 - Daily sanity checks with snapshot comparison
-- Variance-based email alerting system
-- Modular architecture (config, extract, notify)
+- Variance-based email alerting
 - 70% reduction in manual validation
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center"><a href="https://github.com/Avi1602?tab=repositories">📂 View All Repos →</a></h3>
+<p align="center"><em>Explore more on GitHub</em></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/15+-Repositories-6366f1?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-❤️-f97316?style=flat-square" />
+</p>
+
+- Micro-Projects & coding challenges
+- Certificates & achievements
+- More experiments & tools
 
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
