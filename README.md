@@ -1,129 +1,146 @@
 <div align="center">
 
-# Hey there! 👋 I'm **Abhishek Gupta**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=ABHISHEK%20GUPTA&fontSize=50&fontColor=00ff41&fontAlignY=35&desc=%3E_%20Software%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Cloud%20Architect&descSize=16&descColor=00d4ff&descAlignY=55&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%40+MAQ+Software;Full-Stack+Developer+%7C+Cloud+Enthusiast;Building+Scalable+Data+Pipelines;500%2B+Problems+Solved+on+LeetCode" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=%24+whoami+%E2%86%92+Abhishek+Gupta;%24+cat+skills.txt+%E2%86%92+Full-Stack+%7C+Cloud+%7C+AI%2FML;%24+uptime+%E2%86%92+500%2B+problems+solved;%24+status+%E2%86%92+Building+something+awesome..." alt="Typing SVG" />
 
-<p>
-  <a href="https://www.linkedin.com/in/avi1602/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abhishek16802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Avi1602"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Avi1602&style=for-the-badge&color=00d9ff" alt="Profile Views" />
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   ██████╗ ██╗   ██╗██╗██╗     ██████╗ ███████╗██████╗           │
+│   ██╔══██╗██║   ██║██║██║     ██╔══██╗██╔════╝██╔══██╗          │
+│   ██████╔╝██║   ██║██║██║     ██║  ██║█████╗  ██████╔╝          │
+│   ██╔══██╗██║   ██║██║██║     ██║  ██║██╔══╝  ██╔══██╗          │
+│   ██████╔╝╚██████╔╝██║███████╗██████╔╝███████╗██║  ██║          │
+│   ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝          │
+│                                                                  │
+│   > I don't just write code. I engineer solutions.               │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/avi1602/"><img src="https://img.shields.io/badge/-%40avi1602-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abhishek16802@gmail.com"><img src="https://img.shields.io/badge/-abhishek16802-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Avi1602"><img src="https://img.shields.io/badge/-Avi1602-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Avi1602&style=flat-square&color=00ff41" alt="Views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `> cat ~/about.md`
 
-```yaml
-name: Abhishek Gupta
-location: India
-current_role: Software Engineer 1 @ MAQ Software
-education: B.Tech in CSE | PSIT (2021-2025) | CGPA: 7.85
-interests:
-  - Full-Stack Development
-  - Cloud & Data Engineering
-  - AI/ML & NLP
-  - IoT & Embedded Systems
-fun_facts:
-  - 🏆 Developer of the Month x2
-  - ⭐ 5-Star Python Coder on HackerRank
-  - 🧠 500+ problems solved on LeetCode & HackerRank
-  - 🏅 Special Mention at LA Hacks Hackathon
+```js
+const abhishek = {
+    role: "Software Engineer 1 @ MAQ Software",
+    education: "B.Tech CSE | PSIT '25 | CGPA: 7.85",
+    code: ["Python", "JavaScript", "TypeScript", "C#", "C++"],
+    architecture: ["Microservices", "REST APIs", "Event-Driven", "CI/CD"],
+    cloud: ["Azure", "Data Factory", "Databricks", "Synapse", "Pipelines"],
+    tools: ["Docker", "Kubernetes", "Git", "Power BI", "Playwright"],
+    databases: ["MongoDB", "MySQL", "SQL Server"],
+    currentlyBuilding: "Scalable data pipelines & automated validation systems",
+    challengesSolved: "500+",
+    motto: "Ship fast. Break nothing. Automate everything."
+};
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `> neofetch --skills`
+
+```
+                    ╔══════════════════════════════════════╗
+   ┌─┐             ║        TECH ARSENAL v2.0             ║
+   │A│             ╠══════════════════════════════════════╣
+   │V│             ║                                      ║
+   │I│  ┌──────┐   ║  LANGUAGES    Python JS TS C# C++   ║
+   │ │  │ 1602 │   ║  FRONTEND     React Redux HTML CSS   ║
+   │G│  └──────┘   ║  BACKEND      Node Express ASP.NET   ║
+   │U│             ║  DATABASE     MongoDB MySQL SQLServer ║
+   │P│             ║  CLOUD        Azure ADF Databricks    ║
+   │T│             ║  DEVOPS       Docker K8s Git CI/CD    ║
+   │A│             ║  BI & DATA    Power BI DAX Playwright ║
+   └─┘             ║                                      ║
+                    ╚══════════════════════════════════════╝
+```
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### BI & Data
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00ff41?style=flat-square&logo=python&logoColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-00ff41?style=flat-square&logo=javascript&logoColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-00ff41?style=flat-square&logo=typescript&logoColor=0d1117)
+![C#](https://img.shields.io/badge/C%23-00ff41?style=flat-square&logo=dotnet&logoColor=0d1117)
+![C++](https://img.shields.io/badge/C++-00ff41?style=flat-square&logo=cplusplus&logoColor=0d1117)
+![React](https://img.shields.io/badge/React-00d4ff?style=flat-square&logo=react&logoColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-00d4ff?style=flat-square&logo=nodedotjs&logoColor=0d1117)
+![Express](https://img.shields.io/badge/Express-00d4ff?style=flat-square&logo=express&logoColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-ff6600?style=flat-square&logo=mongodb&logoColor=0d1117)
+![Azure](https://img.shields.io/badge/Azure-ff6600?style=flat-square&logo=microsoftazure&logoColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-ff6600?style=flat-square&logo=docker&logoColor=0d1117)
+![Power BI](https://img.shields.io/badge/Power_BI-ff6600?style=flat-square&logo=powerbi&logoColor=0d1117)
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+## `> ls -la ~/projects/`
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ [PodcastAI](https://github.com/Avi1602/PodcastAI)
-AI-powered podcast platform with personalized recommendations
-- **Stack:** React, Node.js, Express, MongoDB
-- JWT auth, pagination, rate limiting
-- NLP sentiment analysis for content recommendations
-- 15% user retention & 25% engagement boost
+### [`🎙️ PodcastAI`](https://github.com/Avi1602/PodcastAI)
+```
+├── React + Node.js + Express + MongoDB
+├── JWT auth | rate limiting | pagination
+├── NLP sentiment analysis engine
+├── +15% retention | +25% engagement
+└── status: ██████████ SHIPPED
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [DocLock - Blockchain Locker](https://github.com/Avi1602/DocLock-Documentation-Locker-Using-Blockchain)
-Secure document storage using blockchain technology
-- Tamper-proof document verification
-- Decentralized architecture
-- Smart contract-based access control
+### [`🔐 DocLock`](https://github.com/Avi1602/DocLock-Documentation-Locker-Using-Blockchain)
+```
+├── Blockchain-powered document locker
+├── Tamper-proof verification
+├── Smart contract access control
+├── Decentralized architecture
+└── status: ██████████ SHIPPED
+```
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 [Fire Detection Robot](https://github.com/Avi1602/Fire-Detection-Robot)
-IoT-based smart fire detection & response system
-- **Stack:** C++, Arduino
-- Real-time flame sensor monitoring
-- Autonomous navigation & alert system
-- Motor control with speaker alarm
+### [`🔥 Fire Detection Robot`](https://github.com/Avi1602/Fire-Detection-Robot)
+```
+├── C++ | Arduino | IoT
+├── Real-time flame sensor array
+├── Autonomous navigation system
+├── Motor control + speaker alarm
+└── status: ██████████ SHIPPED
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Azure Consumption BI Platform
-Enterprise-grade BI platform for Microsoft Azure data
-- Metric validation against source systems
-- RLS compliance & user impersonation testing
-- Automated slicer audit across 10+ reports
-- Configurable report screenshot workflows
+### `📊 Azure Consumption BI`
+```
+├── Enterprise-grade BI platform
+├── Metric validation vs source
+├── RLS compliance testing
+├── Auto slicer audit | 10+ reports
+└── status: ██████████ PRODUCTION
+```
 
 </td>
 </tr>
@@ -132,39 +149,55 @@ Enterprise-grade BI platform for Microsoft Azure data
 
 ---
 
-## 💻 Work Highlights @ MAQ Software
+## `> cat ~/work/impact.log`
 
-> 🔧 **Automated Report Validation** — Built a Python + Playwright system processing 50+ reports daily (70% less manual QA)
->
-> ⚡ **Data Pipeline Optimization** — Configurable pipeline with Azure APIs, batch ops on 29 tables with retry logic
->
-> 📉 **Model Optimization** — Reduced a 1,613-column Power BI model by 18% with custom DAX expression parser
->
-> 🚀 **CI/CD Pipelines** — Azure Pipelines + PowerShell for zero-downtime releases across dev/prod
->
-> 🎯 **Incident Management** — Resolved 20+ production incidents with documented root cause analysis
+```diff
+@@ MAQ Software — Engineering Impact @@
+
++ [AUTOMATION]  Built Python + Playwright validation system → 50+ reports/day → 70% less manual QA
++ [PIPELINES]   Configurable data pipeline → Azure APIs → 29 tables → retry logic → batch ops
++ [OPTIMIZER]   DAX expression parser → 1,613 cols analyzed → 18% model reduction → 15% faster
++ [DEVOPS]      Azure Pipelines + PowerShell → zero-downtime releases → dev ↔ prod migrations
++ [INCIDENTS]   Resolved 20+ production incidents → root cause analysis → 3 cross-functional teams
++ [LEADERSHIP]  Developer of the Month x2 → recognized for quality & on-time delivery
+```
 
 ---
 
-## 📊 GitHub Stats
+## `> htop --github-stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Avi1602&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avi1602&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6600&currStreakLabel=00D9FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Avi1602&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00D4FF&count_private=true&ring_color=00FF41" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avi1602&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00D4FF&currStreakNum=00D4FF&dates=555555" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avi1602&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avi1602&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00D4FF&langs_count=8" width="40%" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## `> cat ~/achievements.json`
+
+```json
+{
+  "achievements": [
+    { "title": "🥇 Developer of the Month x2", "desc": "Consistency. Quality. Speed." },
+    { "title": "🏅 LA Hacks Hackathon", "desc": "Special Mention — National Level" },
+    { "title": "⭐ HackerRank 5-Star", "desc": "Python — Top-tier problem solver" },
+    { "title": "💀 500+ Problems Crushed", "desc": "LeetCode + HackerRank — No mercy" }
+  ]
+}
+```
+
+---
+
+## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avi1602&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Avi1602&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
@@ -177,16 +210,9 @@ Enterprise-grade BI platform for Microsoft Azure data
 
 ---
 
-## 🏅 Achievements
-
 <div align="center">
 
-| 🏆 Achievement | Details |
-|---|---|
-| 🥇 Developer of the Month x2 | Recognized for quality & timely delivery |
-| 🏅 LA Hacks Hackathon | Special Mention at national level |
-| ⭐ HackerRank 5-Star | Python coding & algorithms |
-| 💡 500+ Problems Solved | LeetCode & HackerRank |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avi1602&bg_color=0d1117&color=00ff41&line=00d4ff&point=ff6600&area=true&area_color=00ff4120&hide_border=true" width="95%" />
 
 </div>
 
@@ -194,10 +220,17 @@ Enterprise-grade BI platform for Microsoft Azure data
 
 <div align="center">
 
-### 📫 Let's Connect!
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "Talk is cheap. Show me the code." — Linus Torvalds        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-**Open for collaborations on Full-Stack, Cloud, AI/ML & IoT projects**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=500&lines=%3E_+Let's+build+something+legendary.;%3E_+Open+for+collabs+%26+open+source.;%3E_+Ping+me.+Let's+hack." alt="Footer" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%" />
+
