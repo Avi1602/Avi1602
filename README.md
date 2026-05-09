@@ -192,7 +192,7 @@ const abhishek: Engineer = {
 <tr>
 <td width="33%" valign="top">
 
-<h3 align="center">📊 Azure Consumption BI</h3>
+<h3 align="center"><a href="https://github.com/Avi1602/Azure-Consumption-BI">📊 Azure Consumption BI</a></h3>
 <p align="center"><em>Enterprise BI Platform</em></p>
 
 <p align="center">
@@ -209,7 +209,7 @@ const abhishek: Engineer = {
 </td>
 <td width="33%" valign="top">
 
-<h3 align="center">🏠 Airbnb Clone</h3>
+<h3 align="center"><a href="https://github.com/Avi1602/Airbnb-Clone">🏠 Airbnb Clone</a></h3>
 <p align="center"><em>Full-Stack Web Application</em></p>
 
 <p align="center">
@@ -226,7 +226,7 @@ const abhishek: Engineer = {
 </td>
 <td width="33%" valign="top">
 
-<h3 align="center">🛡️ Report Validation Tool</h3>
+<h3 align="center"><a href="https://github.com/Avi1602/Report-Validation-Tool">🛡️ Report Validation Tool</a></h3>
 <p align="center"><em>Automated QA System</em></p>
 
 <p align="center">
